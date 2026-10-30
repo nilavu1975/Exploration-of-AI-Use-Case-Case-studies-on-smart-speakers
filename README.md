@@ -36,6 +36,7 @@ Examples:
 •	Samsung SmartThings-compatible speakers
 
 # CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
++
 
 1.	Voice Interaction :Communicates with users through voice commands. 
 2.	Speech Recognition :Converts spoken words into text. 
@@ -59,6 +60,6 @@ Examples:
 •	Generative AI: Can generate more natural and context-aware responses. 
 •	Cloud AI Services:Provide large-scale speech, language and knowledge-processing capabilities. 
 
-# CONCLUSION
+# RESULT:
 
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-to-speech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
